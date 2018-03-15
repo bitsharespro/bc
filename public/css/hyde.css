@@ -57,6 +57,9 @@ html {
   margin-bottom:2rem;
   text-decoration:underline;
 }
+.post {
+  margin-bottom:3em;
+}
 .content h1.post-title {
   font-size:1.1rem;
   margin-bottom:0.5rem;
@@ -153,7 +156,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 44rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
