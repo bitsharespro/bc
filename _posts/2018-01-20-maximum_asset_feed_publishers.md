@@ -10,4 +10,3 @@ The original request and discussion can be read [here](https://bitsharestalk.org
 You can view the ongoing vote [here](http://cryptofresh.com/p/1.10.7806).
 
 **2018-01-24 UPDATE:** Proposal was voted in  
-
