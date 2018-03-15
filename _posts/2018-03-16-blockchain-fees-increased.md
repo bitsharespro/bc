@@ -3,7 +3,7 @@ layout: post
 title: "[Update]|Blockchain fees increased"
 ---
 
-As of Tuesday, January 9th 2018, the transaction fees on BitShares have
+As of Friday, March 16th 2018, the transaction fees on BitShares have
 been increased by the BitShares Committee.
 
 Due to the decrease of the unit price of BTS on all major exchanges, an increase 
