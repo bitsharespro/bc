@@ -9,8 +9,8 @@ permalink:        pretty
 title:            BitShares Committee
 tagline:          'A Jekyll theme for Bitshares Committee news and proposals aggregation'
 description:      'News, proposals, suggestions & notifications from the BitShares Committee.'
-url:              http://hyde.getpoole.com
-baseurl:          '/bc'
+url:              http://bc.clockwork.gr
+baseurl:          /
 repository:       'clockworkgr/github.com'
 author:
   name:           'BitShares Committee'
@@ -22,4 +22,4 @@ paginate:         10
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/clockworkgr/bc
