@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -41,7 +41,7 @@ html {
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
@@ -52,12 +52,33 @@ html {
  * Flexible banner for housing site name, intro, and "footer" content. Starts
  * out above content in mobile and later moves to the side with wider viewports.
  */
-
+.content h1 {
+  font-size:1.4rem;
+  margin-bottom:2rem;
+  text-decoration:underline;
+}
+.content h1.post-title {
+  font-size:1.1rem;
+  margin-bottom:0.5rem;
+}
+.post-title {
+  font-size:1.1rem;
+}
+.post-date {
+  font-size:0.8rem;
+  color: #77c5ec;
+}
+.post .post-date {
+  font-size:0.9rem;
+}
+.post p {
+  font-size:0.8rem;
+}
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  color: #77c5ec;
+  background-color: #0a4f79;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -65,7 +86,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 20rem;
     text-align: left;
   }
 }
@@ -79,8 +100,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: "Noto Sans", Helvetica, Arial, sans-serif;
+  font-size: 2.4rem;
 }
 
 /* Sidebar nav */
@@ -89,7 +110,7 @@ html {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.75;
+  line-height: 1.65;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
